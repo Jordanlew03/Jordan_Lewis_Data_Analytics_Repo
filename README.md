@@ -64,7 +64,7 @@ Files:
 
 ### Project 4: MS Azure HR Job Performance Analysis 
 
-Description: This project focuses on the usage of MS Azure and Data Factory and KQL to clean data and use it for analysis and create solutions and visualizations. Through analysis and visualizations, I made a couple suggestions for this business to improve job performance and job satisfaction scores.
+Description: This project focuses on the usage of MS Azure and Explorer and KQL to clean data and use it for analysis and create solutions and visualizations. Through analysis and visualizations, I made a couple suggestions for this business to improve job performance and job satisfaction scores.
 Files:
 - MS Azure Analysis_ Job Attrition and Satisfaction- Jordan Lewis.pptx: A slide deck of my findings
 - WA_Fn-UseC_-HR-Employee-Attrition (1).csv: Dataset for my analysis
