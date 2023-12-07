@@ -37,7 +37,7 @@ The repository is organized as follows:
 Description: This project focuses on the study of abortion rates, median household income, and unemployment rates in the United States over time and their relationship to each other. It involves Minitab statistical tools and Excel for data prep and cleaning, one-way ANOVA test, Tukey Comparison, and multi-regression test and techniques, and discovered that abortion rates and medium household income had no correlation but abortion rates and unemployment rates do have a relationship to each other.
 
 Files:
-- MG 220: Data Analytics Project-Jordan Lewis: Detailed report outlining methodology and results
+- MG 220: Data Analytics Project-Jordan Lewis.docx: Detailed report outlining methodology and results
 
 
 ### Project 2: Gun Background Checks and Gun Crime Rates in the United States over time using Tableau Prep Builder and Tableau 
@@ -64,7 +64,8 @@ Files:
 
 ### Project 4: MS Azure HR Job Performance Analysis 
 
-Description: This project focuses on the usage of MS Azure and Explorer and KQL to clean data and use it for analysis and create solutions and visualizations. Through analysis and visualizations, I made a couple suggestions for this business to improve job performance and job satisfaction scores.
+Description: This project focuses on the usage of MS Azure and Data Explorer and KQL to clean data and use it for analysis and create solutions and visualizations. Through analysis and visualizations, I made a couple suggestions for this business to improve job performance and job satisfaction scores.
+
 Files:
 - MS Azure Analysis_ Job Attrition and Satisfaction- Jordan Lewis.pptx: A slide deck of my findings
 - WA_Fn-UseC_-HR-Employee-Attrition (1).csv: Dataset for my analysis
@@ -73,6 +74,7 @@ Files:
 ### Project 5: Python Files and Scripts
 
 Description: This folder is a compliation of coding files in Python I made to address the prompt at hand. 
+
 Files: 
 - Fav_quote.py: a few lines of code allowing the user to put in their favorite quote and name and the code properly formats the sentence
 - quadratic_formula.py: a few lines of code allowing the user to put in their own numbers for the quadratic formula and the code outputs the answer
