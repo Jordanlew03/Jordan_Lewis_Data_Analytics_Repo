@@ -39,7 +39,7 @@ Description: This project focuses on the study of abortion rates, median househo
 
 Files:
 - MG 220: Data Analytics Project-Jordan Lewis`: Detailed report outlining methodology and results
-- final_projectdata2: Dataset used in the project
+
 
 ### Project 2: Gun Background Checks and Gun Crime Rates in the United States over time using Tableau Prep Builder and Tableau 
 
