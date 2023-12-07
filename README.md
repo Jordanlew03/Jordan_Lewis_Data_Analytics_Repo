@@ -79,8 +79,8 @@ Files:
 - Fav_quote.py: a few lines of code allowing the user to put in their favorite quote and name and the code properly formats the sentence
 - quadratic_formula.py: a few lines of code allowing the user to put in their own numbers for the quadratic formula and the code outputs the answer
 - tag_hopscotch.py: code properly sorting out a list of kids in a class and outputs what activity they would like to play
-- wk4_zylab_registration: code properly sorting out which people should go into what line a list of people will go in based on their registration status
-- wk7_store_sales: code that calulates a stores sales
+- wk4_zylab_registration.py: code properly sorting out which people should go into what line a list of people will go in based on their registration status
+- wk7_store_sales.py: code that calulates a stores sales
 
 
 
