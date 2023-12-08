@@ -47,10 +47,15 @@ Description: This project delves into an analysis of background checks for guns 
 Files:
 - Final_Project.tflix: Tableau File showing analysis and visualizations
 - firearmdata.csv: Dataset utilized in the project
-- Tableau Prep Builder screenshot1.png
-- Tableau Prep Builder screenshot2.png
-- Tableau Prep Builder screenshot3.png
-- Tableau Prep Builder screenshot3.png
+- Tableau Prep Builder screenshot1.png: The first step of my data cleaning process
+- Tableau Prep Builder screenshot2.png: The second step of my data cleaning process
+- Tableau Prep Builder screenshot3.png: The third step and join of my data
+- Tableau Prep Builder screenshot3.png: The last step to clean the data for visualization
+- Average Checks and Transactions.HEIC: Visual to show the average of amount of checks per gun and total amount of guns sold by each transaction
+- Gun Rate vs Checks.HEIC: Visual to show the relationship between gun crime rates and background checks
+- Top Gun Crime by State and Change.HEIC: Visual to show gun crime rates by state and the change in gun crime rates over time
+- Total Checks by State.HEIC: Show the amount of background checks by each state
+- Total Checks by Year and Prediction.HEIC: Shows the change of background checks over time and the forecast of the relationship between time and background check
 
 
 
@@ -61,7 +66,7 @@ Description: This project focuses on the study of Life Expectancy around the wor
 Files:
 - FinalReport_SP23_JL_CS.ipynb: Detailed report outlining methodology and results
 - life_expec.csv: Dataset of life expectancy used in the project
-  government_data: Dataset that was used for join, government data
+- government_data: Dataset that was used for join, government data
 
 
 
