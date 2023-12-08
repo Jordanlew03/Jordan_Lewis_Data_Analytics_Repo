@@ -40,13 +40,17 @@ Files:
 - MG 220: Data Analytics Project-Jordan Lewis.docx: Detailed report outlining methodology and results
 
 
-### Project 2: Gun Background Checks and Gun Crime Rates in the United States over time using Tableau Prep Builder and Tableau 
+### Project 2: Gun Background Checks and Gun Crime Rates in the United States over time using Tableau Prep Builder and Tableau Desktop
 
 Description: This project delves into an analysis of background checks for guns in the United States and its relationship to gun crime. It utilizes Tableau Prep to clean and prepare data, Tableau to visualize the data, and to find out that gun crime and background checks have little to no relationship with each other.
 
 Files:
 - Final_Project.tflix: Tableau File showing analysis and visualizations
 - firearmdata.csv: Dataset utilized in the project
+- Tableau Prep Builder screenshot1.png
+- Tableau Prep Builder screenshot2.png
+- Tableau Prep Builder screenshot3.png
+- Tableau Prep Builder screenshot3.png
 
 
 
