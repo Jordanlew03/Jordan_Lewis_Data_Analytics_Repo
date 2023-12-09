@@ -27,7 +27,8 @@ The repository is organized as follows:
 - Data analysis project –Excel & Minitab: Using Excel and Minitab, I was able to explore the relationship between abortion rates, medium household income, and unemployment rates over time in the United States and test my hypothesis 
 - Data preparation and visualization project – Tableau Prep and Tableau: Using Tableau Prep builder and Tableau Desktop, I was able to create insightful visualizations about gun crime and background checks in the United States
 - Database management tasks using SQL & Python in Jupyter Notebook: Using SQL I was able to properly prepare a dataset on Life Expectancy around the world and visualize it using Python and Jupyter Notebook.
-- Portfolio compilation and presentation: Using Microsoft Azure and Excel, I was able to analyze and create solutions for a business’s HR department on their job performance data. 
+- Portfolio compilation and presentation: Using Microsoft Azure and Excel, I was able to analyze and create solutions for a business’s HR department on their job performance data.
+- RPA: BluePrism consolidation exercise: Using Blue Prism RPA to consolidate excel data and automate an application 
 - Python Files: A small compilation of Python code ran through Anaconda
 
 ## Project Descriptions
@@ -77,10 +78,20 @@ Description: This project focuses on the usage of MS Azure and Data Explorer and
 
 Files:
 - MS Azure Analysis_ Job Attrition and Satisfaction- Jordan Lewis.pptx: A slide deck of my findings
+- WA_Fn-UseC_-HR-Employee-Attrition (1).csv: Dataset for my HR analysis
+
+
+### Project 5: MS Azure HR Job Performance Analysis 
+
+Description: This project focuses on the usage of MS Azure and Data Explorer and KQL to clean data and use it for analysis and create solutions and visualizations. Through analysis and visualizations, I made a couple suggestions for this business to improve job performance and job satisfaction scores.
+
+Files:
+- MS Azure Analysis_ Job Attrition and Satisfaction- Jordan Lewis.pptx: A slide deck of my findings
 - WA_Fn-UseC_-HR-Employee-Attrition (1).csv: Dataset for my analysis
 
 
-### Project 5: Python Files and Scripts
+
+### Project 6: Python Files and Scripts
 
 Description: This folder is a compliation of coding files in Python I made to address the prompt at hand. 
 
