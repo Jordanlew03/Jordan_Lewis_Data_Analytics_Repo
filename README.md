@@ -89,9 +89,15 @@ Files:
 - MS Azure Analysis_ Job Attrition and Satisfaction- Jordan Lewis.pptx: A slide deck of my findings
 - WA_Fn-UseC_-HR-Employee-Attrition (1).csv: Dataset for my analysis
 
+### Project 6: Blue Prism RPA Consolidation Exercise
 
+Description: This project focuses on the use of Blue Prism RPA to automate and read an excel sheet and input them into a company's application/database system where each item is given to a bot. 
 
-### Project 6: Python Files and Scripts
+Files:
+- MS Azure Analysis_ Job Attrition and Satisfaction- Jordan Lewis.pptx: A slide deck of my findings
+- WA_Fn-UseC_-HR-Employee-Attrition (1).csv: Dataset for my analysis
+
+### Project 7: Python Files and Scripts
 
 Description: This folder is a compliation of coding files in Python I made to address the prompt at hand. 
 
