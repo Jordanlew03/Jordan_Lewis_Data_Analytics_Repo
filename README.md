@@ -94,8 +94,16 @@ Files:
 Description: This project focuses on the use of Blue Prism RPA to automate and read an excel sheet and input them into a company's application/database system where each item is given to a bot. 
 
 Files:
-- MS Azure Analysis_ Job Attrition and Satisfaction- Jordan Lewis.pptx: A slide deck of my findings
-- WA_Fn-UseC_-HR-Employee-Attrition (1).csv: Dataset for my analysis
+- MainPageProcess.png: This is the main page of the automation process
+- ReadCSVPageProcess.png: This page has the process of reading a CSV/excel file
+- CreateordersProcess.png: This page has the process lay out of creating the orders and giving it to the bots
+- AttachAppObject.png: This page shows the process of attaching the application to the db connection
+- DetachCloseAppObject.png: This page shows the process of detaching it and closing the application
+- LaunchAppObject.png: This page shows the process of launching the company's application
+- LoginObject.png:This page shows the process of logining into the company's application
+- NavigateOrdersObject.png: This page shows the process of going to the submit orders page
+- InputOrdersObject.png: This page shows the process of inputing all of the required items for an order and submitting them
+- OrderConfirmObject.png This page shows the process of collecting the order confirmation number from the order confirmation window
 
 ### Project 7: Python Files and Scripts
 
