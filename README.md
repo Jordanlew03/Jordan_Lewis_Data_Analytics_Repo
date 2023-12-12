@@ -21,7 +21,7 @@ This repository is dedicated to showcasing different data analytics projects, au
 
 The repository is organized as follows:
 
-- Resume and LinkedIn: I have attached my resume and LinkedIn profile
+- Resume and LinkedIn: I have attached my resume and LinkedIn profile: https://www.linkedin.com/in/jordan-l-22709716b/
 - Ethics Statements: Due to the increase in the use of AI and automation, I wanted to share some ethics issues and how to tackle those problems
 - Certificates and Badges: Collection of certificates and badges I have earned along the way
 - Data analysis project –Excel & Minitab: Using Excel and Minitab, I was able to explore the relationship between abortion rates, medium household income, and unemployment rates over time in the United States and test my hypothesis 
