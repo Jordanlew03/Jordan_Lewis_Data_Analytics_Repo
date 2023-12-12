@@ -46,17 +46,13 @@ Files:
 Description: This project delves into an analysis of background checks for guns in the United States and its relationship to gun crime. It utilizes Tableau Prep to clean and prepare data, Tableau to visualize the data, and to find out that gun crime and background checks have little to no relationship with each other.
 
 Files:
-- Final_Project.tflix: Tableau File showing analysis and visualizations
 - firearmdata.csv: Dataset utilized in the project
 - Tableau Prep Builder screenshot1.png: The first step of my data cleaning process
 - Tableau Prep Builder screenshot2.png: The second step of my data cleaning process
 - Tableau Prep Builder screenshot3.png: The third step and join of my data
 - Tableau Prep Builder screenshot3.png: The last step to clean the data for visualization
-- Average Checks and Transactions.HEIC: Visual to show the average of amount of checks per gun and total amount of guns sold by each transaction
-- Gun Rate vs Checks.HEIC: Visual to show the relationship between gun crime rates and background checks
-- Top Gun Crime by State and Change.HEIC: Visual to show gun crime rates by state and the change in gun crime rates over time
-- Total Checks by State.HEIC: Show the amount of background checks by each state
-- Total Checks by Year and Prediction.HEIC: Shows the change of background checks over time and the forecast of the relationship between time and background check
+- Tableau Gun Anaysis DashBoard Visuals.pdf: A compliation of visualizations from my Gun analysis
+
 
 
 
