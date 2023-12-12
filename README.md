@@ -118,7 +118,7 @@ Files:
 
 To explore any of the projects or scripts:
 
-1. Clone this repository to your local machine using `git clone https://github.com/Jordanlew03/Jordanlew03.git`
+1. Clone this repository to your local machine using `git clone https://github.com/Jordanlew03/Jordan_Lewis_Data_Analytics_Repo.git`
 2. Navigate to the desired project or script folder
 3. Follow the instructions provided in the respective README or documentation files within each project folder
 
